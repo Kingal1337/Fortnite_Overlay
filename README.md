@@ -12,7 +12,7 @@ An external overlay for Fortnite to view user statistics, generate random map lo
 ## How to use
 
 - In order to use some of the features, you will need to get a TRN-API Key
-  1. Go to https://www.fortnitetracker.com
+  1. Go to https://fortnitetracker.com/
   2. Login or register for an account
   3. Click Support > API
   4. Click "Generate API Key"
